@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeet Ramoliya</h1>
-<h3 align="center">Cybersecurity Analyst, Blockchain Developer, React js Developer and Researcher</h3>
+<h3 align="center">Cybersecurity Specialist, Blockchain Developer, React js Developer and Researcher</h3>
 
 - 💬 Ask me about **Cybersecurity, Blockchain and Security related research**
 
